@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="setup_lycan_services">LycanRom info</string>
+
+    <string name="lycan_community">LycanRom Google Plus Community</string>
+
+    <string name="general_explanation" product="tablet">Your LycanRom installation is almost done! We are a project mainly based on CyanogenMod many cherry-picks from another great projects as SlimRoms, OmniRom, Paranoid Android, AICP, Dirty Unicorns, Euphoria-OS, Temasek and many others. Our goal is to keep all CM features working with useful codes from pointed projects. If in any case you find a bug or a weird behavior, please report in our Google Plus community. Proceed with the final steps of your installation and thank you for installing LycanRom on your tablet!! <xliff:g id="name" example="LycanRom Google Plus Community">%s</xliff:g>.</string>
+
+    <string name="general_explanation" product="default">Your LycanRom installation is almost done! We are a project mainly based on CyanogenMod many cherry-picks from another great projects as SlimRoms, OmniRom, Paranoid Android, AICP, Dirty Unicorns, Euphoria-OS, Temasek and many others. Our goal is to keep all CM features working with useful codes from pointed projects. If in any case you find a bug or a weird behavior, please report in our Google Plus community. Proceed with the final steps of your installation and thank you for installing LycanRom on your phone!! <xliff:g id="name" example="lycanRom Google Plus Community">%s</xliff:g>.</string>
+
+</resources>

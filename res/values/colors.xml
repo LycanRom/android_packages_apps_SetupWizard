@@ -19,7 +19,7 @@
     <color name="white">#ffffff</color>
     <color name="page_background">#efefef</color>
 
-    <color name="primary">#00B1E5</color>
+    <color name="primary">#000000</color>
     <color name="primary_dark">#00A2E5</color>
     <color name="accent">#009789</color>
     <color name="primary_text">#8a000000</color>
